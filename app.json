@@ -1,16 +1,16 @@
 {
-  "name": "File Store",
-  "description": "Telegram bot to store your telegram files",
+  "name": "@FilmIndex File Store Bot",
+  "description": "Telegram bot to store our telegram files",
   "keywords": [
     "telegram",
     "best",
     "Store",
     "Files"
   ],
-  "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
-  "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
+  "logo": "https://telegra.ph/file/09e69e20ffa73f5b6cc04.png",
+  "success_url": "https://telegram.dog/FilmIndex",
+  "website": "https://telegram.dog/FunyRobot",
+  "repository": "https://telegram.dog/MultiAudioFiles",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
