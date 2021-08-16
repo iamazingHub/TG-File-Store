@@ -64,21 +64,23 @@ async def about_cb(c, m):
 
 👋 𝐌𝐲 𝐍𝐚𝐦𝐞: {bot.mention(style='md')}
 
-🤖 Main Robot: [Entertainment Bot](https://t.me/FunyRobot)
+🤖 𝐌𝐚𝐢𝐧 𝐑𝐨𝐛𝐨𝐭: [Entertainment Bot](https://t.me/FunyRobot)
     
-❤️ Main Channel: [Multi Audio Films/Movies/Series](https://t.me/MultiAudioFilms)
+❤️ 𝐌𝐚𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [Multi Audio Films/Movies/Series](https://t.me/MultiAudioFilms)
 
-♻️ Index Channel: [Film Index](https://t.me/FilmIndex)
+♻️ 𝐈𝐧𝐝𝐞𝐱 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [Film Index](https://t.me/FilmIndex)
 
-💎 Our Group : [Our Group Chat](https://t.me/OurGroupChat)
+💎 𝐎𝐮𝐫 𝐆𝐫𝐨𝐮𝐩: [Our Group Chat](https://t.me/OurGroupChat)
 
-🔥 Hindi Movies : [Hindi Movies](https://t.me/Hindi_Telegram)
+🔥 𝐇𝐢𝐧𝐝𝐢 𝐌𝐨𝐯𝐢𝐞𝐬: [Hindi Movies](https://t.me/Hindi_Telegram)
 
-🐾 Anime Channel: [Popular Anime](https://t.me/PopularAnime)
+🐾 𝐀𝐧𝐢𝐦𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [Popular Anime](https://t.me/PopularAnime)
 
-📢 Backup Channel: [Dual Audio Army Backup](https://t.me/DualAudioArmyBkp) 
+📢 𝐁𝐚𝐜𝐤𝐮𝐩 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [Dual Audio Army Backup](https://t.me/DualAudioArmyBkp)
 
-⚡ Share: [Share With Friends](https://telegram.me/share/url?url=https%3A%2F%2Ft.me%2FFunyRobot%0D%0Ahttps%3A%2F%2Ft.me%2FFilmIndex+%0D%0Ahttps%3A%2F%2Ft.me%2FMultiAudioFilms++%0D%0Ahttps%3A%2F%2Ft.me%2FHindiHindi_Movie++++%0D%0Ahttps%3A%2F%2Ft.me%2FPopularAnime+%0D%0Ahttps%3A%2F%2Ft.me%2FDualAudioArmyBkp++%0D%0Ahttps%3A%2F%2Ft.me%2FIndianFunnyVideos++%0D%0Ahttps%3A%2F%2Ft.me%2FOnlineFunnyArmy+%0D%0Ahttps%3A%2F%2Ft.me%2FHindi_Telegram%0D%0Ahttps%3A%2F%2Ft.me%2FAd_ibot++%0D%0A....+and+more+on+%40FunyRobot+%F0%9F%A4%96++%0D%0A++%0D%0A%F0%9F%91%86%F0%9F%91%86Follow+the+above+link+to+DOWNLOAD+All+HOLLYWOOD%2C+ANIME%2C+BOLLYWOOD%2C+TOLLYWOOD%2C+PREMIUM+MOVIES+%26+SERIES+in+MULTI+AUDIO+with+BEST+QUALITY+%F0%9F%A5%B0++++%0D%0A++++%0D%0A%F0%9F%A6%8B+BECOME+A+PART+OF+OUR+GROWING+FAMILY+%F0%9F%8C%B8) 
+😎 𝐎𝐰𝐧𝐞𝐫: [Talk to Admin](https://t.me/Request2Adminbot) 
+
+⚡ 𝐒𝐡𝐚𝐫𝐞: [Share With Friends](https://telegram.me/share/url?url=https%3A%2F%2Ft.me%2FFunyRobot%0D%0Ahttps%3A%2F%2Ft.me%2FFilmIndex+%0D%0Ahttps%3A%2F%2Ft.me%2FMultiAudioFilms++%0D%0Ahttps%3A%2F%2Ft.me%2FHindiHindi_Movie++++%0D%0Ahttps%3A%2F%2Ft.me%2FPopularAnime+%0D%0Ahttps%3A%2F%2Ft.me%2FDualAudioArmyBkp++%0D%0Ahttps%3A%2F%2Ft.me%2FIndianFunnyVideos++%0D%0Ahttps%3A%2F%2Ft.me%2FOnlineFunnyArmy+%0D%0Ahttps%3A%2F%2Ft.me%2FHindi_Telegram%0D%0Ahttps%3A%2F%2Ft.me%2FAd_ibot++%0D%0A....+and+more+on+%40FunyRobot+%F0%9F%A4%96++%0D%0A++%0D%0A%F0%9F%91%86%F0%9F%91%86Follow+the+above+link+to+DOWNLOAD+All+HOLLYWOOD%2C+ANIME%2C+BOLLYWOOD%2C+TOLLYWOOD%2C+PREMIUM+MOVIES+%26+SERIES+in+MULTI+AUDIO+with+BEST+QUALITY+%F0%9F%A5%B0++++%0D%0A++++%0D%0A%F0%9F%A6%8B+BECOME+A+PART+OF+OUR+GROWING+FAMILY+%F0%9F%8C%B8) 
 """
 
     # creating buttons
